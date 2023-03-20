@@ -164,6 +164,7 @@ body{
 @media screen and (max-width: 500px){
     .sections{
         width: 95vw;
+        margin-top: 5vh;
     }
 }
 @media screen and (max-width: 400px){
