@@ -25,5 +25,5 @@ Users should be able to:
 - Mobile-first workflow
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - https://www.frontendmentor.io/profile/MyYsterio0O
+- GitHub - https://github.com/MyYsterio0O
